@@ -120,5 +120,4 @@ if __name__ == "__main__":
 # --- NOTAS DE LA ESTUDIANTE: ARIANNA BELDUMA ---
 # 1. Se personalizó la interfaz visual del menú principal agregando bordes decorativos.
 # 2. Se incluyó el nombre de la estudiante en el encabezado del Dashboard.
-# 3. Se modificaron los nombres de las carpetas a UNIDAD 1 y UNIDAD 2 para sincronizar con el repositorio.
-# 4. Se agregaron comentarios descriptivos para facilitar la lectura del código.
+# 3. Se agregaron comentarios descriptivos para facilitar la lectura del código.
